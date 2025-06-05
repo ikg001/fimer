@@ -1,4 +1,4 @@
-# FIMER - Fırat Üniversitesi Talep Sistemi
+# FIMER - Fırat Üniversitesi İletişim Merkezi Sistemi
 
 FIMER, Fırat Üniversitesi öğrencilerinin öneri, talep ve şikayetlerini dijital ortamda öğretim elemanlarına ve idari birimlere ulaştıran bir platformdur.
 
